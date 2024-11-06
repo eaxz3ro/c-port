@@ -5,4 +5,4 @@ This is a simple representation of how sockets work in C. It scans a specified r
 #### Compile the code. ####
 gcc -o scan port_scanner.c
 #### Run the scanner. ####
-./scan <IPaddress> <Startport> <Endport>
+./scan IPaddress Startport Endport
